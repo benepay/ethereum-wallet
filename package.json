@@ -1,5 +1,5 @@
 {
-  "name": "ethereum-wallet",
+  "name": "ethereum-wallet-api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
